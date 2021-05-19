@@ -1,0 +1,3 @@
+#mv escher* -t Videos
+gm mogrify -format jpg *.ppm
+
