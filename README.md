@@ -14,9 +14,6 @@ The image reconstruction process of M. C. Escher's _Sky and Water I_ is demonstr
 ![Video](preview.gif)
 
 
-
-
-
 ## Group Members
 - [Justin Prez](https://github.com/justinprez)
 - [Justin Rosner](https://github.com/justinrosner)
