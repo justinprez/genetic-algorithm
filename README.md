@@ -7,11 +7,16 @@ This project was created for a software engineering course 2S03 - Programming in
 The image reconstruction process of M. C. Escher's _Sky and Water I_ is demonstrated below:
 
 ### Original & Reproduced Image
+![Original](escher.jpeg)
+![Reproduced](recreate.jpeg)
+
+### Image Reconstruction Process
+![Video](preview.gif)
 
 
 
 
 
-### Group Members
+## Group Members
 - [Justin Prez](https://github.com/justinprez)
 - [Justin Rosner](https://github.com/justinrosner)
