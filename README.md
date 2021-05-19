@@ -4,7 +4,7 @@ This project was created for a software engineering course 2S03 - Programming in
 
 ## Results
 
-The example below demonstrates the image reconstruction process of M. C. Escher's _Sky and Water I_ :
+The image reconstruction process of M. C. Escher's _Sky and Water I_ is demonstrated below:
 
 ### Original & Reproduced Image
 
